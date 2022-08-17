@@ -3,7 +3,7 @@
 
 #### Exciting News: I graduate from App Academy the 26th of August! 🤩🤩🤩
 
-##### 🌱 I'm a sprouting 🌱 software engineer with a focus in web development. Javascript has been my primary language and focus, but I am also proficient in Python. Currently I have created four full stack web applications. My most recent project, and one that I am really excited about, Drop In is an AllTrails clone that features skate parks and their locations.
+##### 🌱 I'm a sprouting 🌱 software engineer with a focus in web development. Javascript has been my primary language and focus, but I am also proficient in Python. Currently I have created four full stack web applications. My most recent project, and one that I am really excited about, [Drop In](https://github.com/jay-bean/DropIn) is an AllTrails clone that features skate parks and their locations.
 
 ##### On a more personal note, I love anything outdoors that'll get your blood pumping! I skate, rock climb, enjoy riding motorcycles and hiking with my dogs. I'm also vegan with a passion for animal rights. 
 
