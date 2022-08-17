@@ -1,5 +1,5 @@
 ### Hi there, I'm Jay Hutts
-##### Pronouns: she/her
+##### ___Pronouns: she/her___
 
 #### Exciting News: I graduate from App Academy the 26th of August! 🤩🤩🤩
 
