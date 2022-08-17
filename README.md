@@ -1,8 +1,7 @@
 ### Hello, I'm Jay Hutts
 ##### Pronouns: she/her
 
- [![General badge](https://img.shields.io/badge/https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-.svg)](https://shields.io/)
+
 
 ##### I'm a sprouting software engineer with a focus in web development. Javascript has been my primary language and focus, but I am also proficient in Python. Currently I have created four full stack web applications. My most recent project, and one that I am really excited about, Drop In is an AllTrails clone that features skate parks and their locations.
 
