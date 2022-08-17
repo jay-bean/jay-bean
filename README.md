@@ -1,4 +1,4 @@
-### Hello, I'm Jay Hutts
+### Hi there, I'm Jay Hutts
 ##### Pronouns: she/her
 
 #### Exciting News: I graduate from App Academy the 26th of August! 🤩🤩🤩
