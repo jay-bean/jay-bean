@@ -7,11 +7,6 @@
 
 ##### When I'm not at my computer you can catch me outdoors doing anything that'll get your blood pumping! I skate, rock climb, enjoy riding motorcycles and hiking with my dogs. I'm also vegan with a passion for animal rights. 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### The Stats:
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jay-bean&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ##### Thanks for checking out my page!
