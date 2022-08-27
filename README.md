@@ -1,7 +1,7 @@
 ### Hello there, I'm Jay Hutts!
 ##### ___Pronouns: she/her___
 
-#### Exciting News: I graduate from App Academy the 26th of August!!🌞
+#### Exciting News: I graduated from App Academy!!🌞 I am now a software engineer!
 
 ##### 🌱 I'm a sprouting 🌱 software engineer with a focus in web development. Javascript has been my primary language and focus, but I am also proficient in Python. Currently I have created four full stack web applications. My most recent project, and one that I am really excited about, [Drop In](https://github.com/jay-bean/DropIn) is an AllTrails clone that features skate parks and their locations.
 
