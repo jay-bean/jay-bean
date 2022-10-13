@@ -10,4 +10,3 @@
 ##### Follow me on [LinkedIn](https://www.linkedin.com/in/jay-hutts-300ab9180/)
 
 ##### Thanks for checking out my page!
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${jay-bean}.${jay-bean})
